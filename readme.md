@@ -102,5 +102,9 @@ Currently, it has been tested on several devices with Qualcomm SoCs of different
             <td style="padding: 10px; border: 1px solid #ddd;"><strong><a href="https://github.com/Theliel/SMSForge/wiki/05.-Privacy-Policy,-Data-and-Permissions">Privacy Policy, Data and Permissions</a></strong></td>
             <td style="padding: 10px; border: 1px solid #ddd;">Everything about privacy policy, data collection and retention, and permissions exposed</td>
         </tr>
+        <tr>
+            <td style="padding: 10px; border: 1px solid #ddd;"><strong><a href="https://github.com/Theliel/SMSForge/wiki/06.--Terms-of-Service-and-EULA">Terms of Service and EULA</a></strong></td>
+            <td style="padding: 10px; border: 1px solid #ddd;">ToS and EULA, as the section itself specifies</td>
+        </tr>
     </tbody>
 </table>
