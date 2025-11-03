@@ -63,6 +63,44 @@ To-Do
 
 # Limitations
 
-As explained, there are some limitations that may prevent partial or complete use of SMS Forge. Some of these are easily remedied and are due to the inability to individually check the compatibility/behavior between the different devices currently on the market, different SoCs, and Basebands. I will soon publish a simple APK here so that anyone who wants to can install/check on their device whether it is potentially compatible or not, and if not, they can attach a report to see if it can be implemented.
+As explained, there are some limitations that may prevent partial or complete use of SMS Forge. Some of these are easily remedied and are due to the inability to individually check the compatibility/behavior between the different devices currently on the market, different SoCs, and Basebands. Originally, the idea was to release a testing app to check if the device would be compatible, but I think in the end it was a much better idea to release only one app, where the user can still test the basic functionality before getting the full version, if they so choose. If your device dont seem to work, you always can attach a report to see if it can be implemented. Please visit the Wiki for more information about it.
 
 Currently, it has been tested on several devices with Qualcomm SoCs of different generations, and some MediaTek devices. MediaTek devices are a bit more complex, and although it's fully functional in our tests, you may encounter some bugs. Please feel free to open a bug report if you find any issues.
+<p> </p>
+
+
+<h2>🗺️ Wiki Navigation</h2>
+<table style="width:100%; border-collapse: collapse; border: 1px solid #ddd;">
+    <thead>
+        <tr style="background-color: #f2f2f2;">
+            <th style="padding: 10px; border: 1px solid #ddd; text-align: left; width: 30%;">Section</th>
+            <th style="padding: 10px; border: 1px solid #ddd; text-align: left;">Description</th>
+        </tr>
+    </thead>
+    <tbody>
+         <tr>
+            <td style="padding: 10px; border: 1px solid #ddd;"><strong><a href="https://github.com/Theliel/SMSForge/wiki">Wiki Home</a></strong></td>
+            <td style="padding: 10px; border: 1px solid #ddd;">The starting point for all documentation relating to SMS Forge, feel free to report any errors you may find in it.</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border: 1px solid #ddd;"><strong><a href="https://github.com/Theliel/SMSForge/wiki/01.-User-Guide">User Guide</a></strong></td>
+            <td style="padding: 10px; border: 1px solid #ddd;">Step-by-step instructions for using the application's interface and features.</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border: 1px solid #ddd;"><strong><a href="https://github.com/Theliel/SMSForge/wiki/02.-Core-Concepts">Core Concepts</a></strong></td>
+            <td style="padding: 10px; border: 1px solid #ddd;">Simple explanations of key terms like PDU, AT Commands, TP-PID, MWI, and SMS Classes.</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border: 1px solid #ddd;"><strong><a href="https://github.com/Theliel/SMSForge/wiki/03.-Compatibility">Compatibility</a></strong></td>
+            <td style="padding: 10px; border: 1px solid #ddd;">Detailed guide on selecting the correct modem device and troubleshooting compatibility issues. <strong>(Critical for first-time setup)</strong></td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border: 1px solid #ddd;"><strong><a href="https://github.com/Theliel/SMSForge/wiki/04.-FAQ-&-Known-Issues">FAQ & Known Issues</a></strong></td>
+            <td style="padding: 10px; border: 1px solid #ddd;">Answers to frequently asked questions about licensing, usage, and known issues.</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border: 1px solid #ddd;"><strong><a href="https://github.com/Theliel/SMSForge/wiki/05.-Privacy-Policy,-Data-and-Permissions">Privacy Policy, Data and Permissions</a></strong></td>
+            <td style="padding: 10px; border: 1px solid #ddd;">Everything about privacy policy, data collection and retention, and permissions exposed</td>
+        </tr>
+    </tbody>
+</table>
