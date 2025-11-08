@@ -38,6 +38,7 @@ Already Implemented:
 + Auto-Delete SMS
 + Message Waiting Indicator: DCS or UDH
 + Silent/Ping SMS: Type 0 or MWI
++ RAW SMS (PDU)
 + Additional settings: SMSC, Valid-Period (Relative/Absolute/Enhanced), PID Selector,
   Message Reference, Reply-Path, Status Report (See FAQ), Reject Duplicate
 + National/International Number Support
@@ -51,7 +52,6 @@ Already Implemented:
 To-Do
 
 - Translation into other languages
-- SMS RAW
 - SMS WAP
 - SMS for MMS Notification
 - Perhaps a permanent way to work around the limitations of current status reports
