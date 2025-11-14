@@ -38,6 +38,7 @@ Already Implemented:
 + Auto-Delete SMS
 + Message Waiting Indicator: DCS or UDH
 + Silent/Ping SMS: Type 0, MWI, or MMS Notification
++ SMS WAP Push SI / SL
 + SMS for MMS Notification
 + RAW SMS (PDU)
 + Additional settings: SMSC, Valid-Period (Relative/Absolute/Enhanced), PID Selector,
@@ -53,10 +54,11 @@ Already Implemented:
 To-Do
 
 - Translation into other languages
-- SMS WAP
 - Perhaps a permanent way to work around the limitations of current status reports
-- SMS Compression
 - Long SMS (Concatenation)
+- Manual Encoding Enforcing (7Bit/8Bit/UCS2)
+- More WAP SMS
+- SMS Compression?
 - More to come...
 
 <p> </p>
