@@ -31,13 +31,14 @@ Experience the true power of your device's modem.
 
 # Implemented Features and To-Do
 
-Already Implemented:
+Features:
 
++ Android 9+ Support
 + All SMS Class: 0(Flash)/1(ME)/2(SIM)/3(Reserved)
 + Replace SMS
 + Auto-Delete SMS
 + Message Waiting Indicator: DCS or UDH
-+ Silent/Ping SMS: Type 0, MWI, or MMS Notification
++ Silent/Ping SMS: Type 0, MWI, MMS Notification or WAP Push
 + SMS WAP Push SI / SL
 + SMS for MMS Notification
 + RAW SMS (PDU)
@@ -45,15 +46,14 @@ Already Implemented:
   Message Reference, Reply-Path, Status Report (See FAQ), Reject Duplicate
 + National/International Number Support
 + Automatic charset detection (GSM7/160ch. UCS2/70ch)
-+ Light/Dark Theme Support
 + Qualcomm / Mediatek Support (probably other SoCs too)
-+ Interface redesign
 + English / Spanish translations
++ Light/Dark Theme Support
 
 
 To-Do
 
-- Translation into other languages
+- Translation into more languages
 - Perhaps a permanent way to work around the limitations of current status reports
 - Long SMS (Concatenation)
 - Manual Encoding Enforcing (7Bit/8Bit/UCS2)
